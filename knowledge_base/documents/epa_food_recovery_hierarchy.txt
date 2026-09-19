@@ -1,0 +1,34 @@
+# EPA Food Recovery Hierarchy & Source Reduction Guidelines
+
+## Overview
+The United States Environmental Protection Agency (EPA) and the United Nations Environment Programme (UNEP) have established the Food Recovery Hierarchy to prioritize actions organizations can take to prevent and divert wasted food.
+
+## The Hierarchy Levels (From Most Preferred to Least Preferred)
+
+1. **Source Reduction (Most Preferred)**:
+   - Reduce the overall volume of surplus food generated at the source.
+   - Implement demand forecasting, menu rationalization, flexible batch cooking, and portion control.
+   - Preventing 1 ton of food waste at source saves approximately 4.2 tons of CO2 equivalent emissions.
+
+2. **Feed Hungry People (Food Donation)**:
+   - Donate wholesome surplus prepared foods to local food banks, shelters, and community kitchens.
+   - Establish partnerships with certified food rescue organizations.
+   - Maintain cold-chain logs and comply with food safety temperature standards (e.g., hold hot food at or above 60°C/140°F, refrigerate cold food at or below 4°C/40°F).
+
+3. **Feed Animals**:
+   - Divert safe, clean food scraps (such as vegetable trimmings and surplus grain) to local farms for animal feed, subject to local agricultural regulations.
+
+4. **Industrial Uses**:
+   - Render fats, oils, and grease (FOG) for biofuel or biodiesel conversion.
+   - Anaerobic digestion to recover biogas energy and bio-fertilizer.
+
+5. **Composting**:
+   - Compost organic residuals to produce nutrient-rich soil amendments that restore soil microbiology and retain moisture.
+
+6. **Landfill / Incineration (Least Preferred)**:
+   - Disposal in landfills should be avoided as rotting food produces methane (CH4), a potent greenhouse gas with over 28 times the global warming potential of CO2.
+
+## Key Performance Indicators for Institutional Cafeterias
+- Overproduction Rate = (Surplus Meals / Total Meals Prepared) * 100
+- Waste Diversion Rate = (Food Donated + Composted) / (Total Food Waste) * 100
+- Waste per Meal Served = Total Waste (kg) / Total Meals Consumed

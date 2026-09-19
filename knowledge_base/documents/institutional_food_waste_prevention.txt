@@ -1,0 +1,26 @@
+# Institutional Kitchen Food Waste Prevention Strategies
+
+## Scope: Corporate Cafeterias, Hospitals, Universities, Hotels
+
+### 1. Batch Cooking & Just-in-Time (JIT) Preparation
+- Avoid preparing 100% of expected daily volume at the start of service.
+- Prepare 60% of estimated demand prior to opening, and cook remaining portions in staggered 15-20 minute batches based on real-time attendance pacing.
+- Batch cooking preserves freshness, minimizes hot-holding quality degradation, and prevents end-of-shift overproduction.
+
+### 2. Predictive Demand Forecasting
+- Base production schedules on predictive ML models accounting for day-of-week trends, weather fluctuations, seasonal calendar events, and historical attendance.
+- Replace static safety buffers (typically 12-15%) with dynamic, data-driven buffers (3-6%) calibrated against demand variance.
+
+### 3. Kitchen Inventory Management & FIFO
+- Enforce strict First-In, First-Out (FIFO) stock rotation for perishables.
+- Utilize standardized recipe cards to prevent over-portioning and ingredient spoilage.
+- Conduct weekly audits of walk-in coolers and dry storage.
+
+### 4. Plate Waste Reduction Techniques
+- Replace oversized dining trays with trayless dining (demonstrated to reduce post-consumer food waste by up to 20-30% in university and cafeteria settings).
+- Offer flexible portion sizes (e.g., half-portions, small vs. standard plates).
+- Implement taste-first sample spoons for unfamiliar dishes to minimize discarded servings.
+
+### 5. Surplus Food Repurposing & Recovery
+- Repurpose surplus unserved vegetables and lean proteins into hearty soups, stocks, casseroles, or baked specials for the following lunch cycle following food safety guidelines.
+- Freeze wholesome batch surplus immediately after rapid chilling (within 2 hours from 60°C to 21°C, and within 4 hours to 4°C).

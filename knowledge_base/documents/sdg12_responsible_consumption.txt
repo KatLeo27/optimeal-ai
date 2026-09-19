@@ -1,0 +1,16 @@
+# United Nations Sustainable Development Goals (SDGs) & Food Waste
+
+## Primary Goal: SDG 12 — Responsible Consumption and Production
+- **Target 12.3**: By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses.
+- **Target 12.5**: Substantially reduce waste generation through prevention, reduction, recycling, and reuse.
+- **Target 12.8**: Ensure that people everywhere have relevant information and awareness for sustainable development and lifestyles in harmony with nature.
+
+## Secondary Goals:
+- **SDG 2 — Zero Hunger (Target 2.1 & 2.2)**: Eliminate food insecurity and ensure access by all people to safe, nutritious, and sufficient food all year round through surplus food recovery and redistribution.
+- **SDG 13 — Climate Action (Target 13.2 & 13.3)**: Global food loss and waste generates roughly 8-10% of total global greenhouse gas emissions. Halving food waste is recognized by Project Drawdown as one of the top high-impact climate mitigation solutions.
+
+## Institutional Contribution Framework
+Food service facilities in corporations, universities, and hospitals can contribute directly to SDG targets by:
+1. Adopting digital food waste tracking and predictive demand intelligence.
+2. Publishing transparent monthly sustainability & food diversion metrics.
+3. Engaging diner communities with clear feedback on plate waste reduction.

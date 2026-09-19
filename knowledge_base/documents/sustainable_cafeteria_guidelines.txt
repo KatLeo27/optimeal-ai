@@ -1,0 +1,17 @@
+# Sustainable Cafeteria Operations & Measurement Guidelines
+
+## Waste Stream Categorization in Food Service
+Institutional waste generally originates in three distinct stages:
+1. **Pre-Consumer Prep Waste**: Trimmings, peels, spoilage during storage, and overproduction in the prep kitchen. Target: < 4% of total ingredients.
+2. **Overproduction / Unserved Surplus Waste**: Food prepared and displayed on serving lines but never served or sold to patrons. Target: < 3% of total meals prepared.
+3. **Post-Consumer Plate Waste**: Leftovers left uneaten by patrons on dining plates. Target: < 30-50 grams per patron meal.
+
+## Financial & Environmental Cost Analysis
+- Food waste costs include not only raw ingredient procurement costs, but also embodied labor, energy, water, and waste-hauling disposal fees.
+- True Cost of Food Waste = Ingredient Purchase Cost + Kitchen Labor Cost (prep time) + Utility Energy (cooking/refrigeration) + Municipal Disposal Surcharge.
+- On average, every $1 invested in institutional food waste reduction delivers approximately $7 in operational savings.
+
+## Practical Steps for Kitchen Managers
+1. Conduct daily end-of-shift waste weigh-ins by meal section (e.g., Soups, Vegetables, Meats, Starches).
+2. Review weekly anomaly alerts to identify dishes with persistent consumer rejection or high surplus rates.
+3. Establish a standard operating procedure (SOP) for safe rapid chilling and donation to local food rescue partners.

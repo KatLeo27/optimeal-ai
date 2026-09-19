@@ -1,0 +1,29 @@
+{
+    "Linear Regression (Baseline)": {
+        "model_name": "Linear Regression (Baseline)",
+        "test_mae": 15.09,
+        "test_rmse": 20.47,
+        "test_r2": 0.9868,
+        "train_mae": 14.56,
+        "train_rmse": 20.25,
+        "train_r2": 0.9862
+    },
+    "Random Forest Regressor": {
+        "model_name": "Random Forest Regressor",
+        "test_mae": 15.69,
+        "test_rmse": 21.7,
+        "test_r2": 0.9852,
+        "train_mae": 6.53,
+        "train_rmse": 9.29,
+        "train_r2": 0.9971
+    },
+    "Gradient Boosting Regressor": {
+        "model_name": "Gradient Boosting Regressor",
+        "test_mae": 15.35,
+        "test_rmse": 21.19,
+        "test_r2": 0.9859,
+        "train_mae": 8.99,
+        "train_rmse": 11.83,
+        "train_r2": 0.9953
+    }
+}
